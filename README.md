@@ -12,6 +12,10 @@ The second thread is responsible for parsing the data and managing which directi
 ## Video Demonstration
 
 
+ <a href="https://www.youtube.com/embed/wpx8xCC7ETM" target="_BLANK"><img src="https://img.youtube.com/vi/wpx8xCC7ETM/0.jpg" /></a>
+ 
+ 
+
 [![Click to view at higher resolution](https://github.com/SuperUserockx/InternshipSubmission/blob/main/md.content/floor-stack.gif)](https://youtu.be/g6xbX5fjv0U)
 
 ## Rename a file
