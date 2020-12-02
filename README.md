@@ -31,6 +31,7 @@ This demonstrates if the directional buttons are pressed on the same floor the l
 
 ##  Functional Flow Chart
 
+```mermaid
 graph TD
     A(-Start-) --> B[Wait for User to Input Number of floors]
     B --> |Thread 1|C[Get floor Number]
@@ -56,4 +57,4 @@ graph TD
     DJ --> |No|DM[Go to the set floor and remove the floor from the stack]
     DM --> DL
     
-            
+```
