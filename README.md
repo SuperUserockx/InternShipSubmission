@@ -12,7 +12,7 @@ The second thread is responsible for parsing the data and managing which directi
 
 ## Video Demonstration
 
-### Click on the images to view in a higher resolution
+### Click on the gif to view in a higher resolution
 
 [![Click to view at higher resolution](https://github.com/SuperUserockx/InternshipSubmission/blob/main/md.content/floor-stack.gif)](https://youtu.be/g6xbX5fjv0U)
 
