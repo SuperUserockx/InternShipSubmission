@@ -1,3 +1,4 @@
+
 # Program to manage the calls for the lift
 This program manages receives the calls for the lift from each floor and manages the path of the lift in order to achieve the maximum efficiency.
 
@@ -11,16 +12,32 @@ The second thread is responsible for parsing the data and managing which directi
 
 ## Video Demonstration
 
-
- <a href="https://www.youtube.com/embed/wpx8xCC7ETM" target="_BLANK"><img src="https://img.youtube.com/vi/wpx8xCC7ETM/0.jpg" /></a>
- 
- 
+### Click on the images to view in a higher resolution
 
 [![Click to view at higher resolution](https://github.com/SuperUserockx/InternshipSubmission/blob/main/md.content/floor-stack.gif)](https://youtu.be/g6xbX5fjv0U)
 
-## Rename a file
+This is a demonstration for the code's ability to manage the floor calls on the fly. The code takes the input from the floor and manages the path of the lift so that if the lift is moving in one direction all the calls for that are first attended. By doing this the unnecessary directional changes in the path are prevented.
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+
+[![Click to view at higher resolution](https://github.com/SuperUserockx/InternshipSubmission/blob/main/md.content/invalid-detector.gif)](https://youtu.be/KZNM15MGp1g)
+
+This is to demonstrate the ability to filter out the invalid inputs which are entered during the runtime.
+
+
+[![Click to view at higher resolution](https://github.com/SuperUserockx/InternshipSubmission/blob/main/md.content/up-down-change-on-same-floor.gif)](https://youtu.be/BVqiPgGOZSM)
+
+This demonstrates if the directional buttons are pressed on the same floor the lift's output adjusts accordingly.
+
+
+##  Functional Flow Chart
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 
 ## Delete a file
 
