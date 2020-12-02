@@ -11,9 +11,8 @@ The second thread is responsible for parsing the data and managing which directi
 
 ## Video Demonstration
 
-```
-[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO-ID)
-```
+
+[![Click to view at higher resolution](https://github.com/SuperUserockx/InternshipSubmission/blob/main/md.content/floor-stack.gif)](https://youtu.be/g6xbX5fjv0U)
 
 ## Rename a file
 
