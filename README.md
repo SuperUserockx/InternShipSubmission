@@ -30,5 +30,5 @@ This demonstrates if the directional buttons are pressed on the same floor the l
 
 
 ##  Functional Flow Chart
-![Alt text](https://github.com/SuperUserockx/InternshipSubmission/blob/main/md.content/flowchart.svg)
+
 <img src="https://github.com/SuperUserockx/InternshipSubmission/blob/main/md.content/flowchart.svg">
